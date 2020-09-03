@@ -4,3 +4,8 @@ Punnitustulokset pitää voida tallentaa millä tahansa laitteella: tietokoneell
 
 # Sovelluksen tiedot 
 Asiakas syöttää punnitustuloksen ja saa siitä painoindeksin ja kehon rasvaprosentin. Niitä voi myöhemmin tarkastella kalenterista tai graafisesta kuvaajasta (painokäyrä).
+
+# Tehtävät
+Selvitä, miten painoindeksi (Body Mass Index) ja kehon rasvaprosentti lasketaan. Lisää Docs-kansioon määrittelydokumentti, johon dokumentoit laskentakaavat.
+
+# Tee Docs-kansioon luokkakaavio, josta selviävät ominaisuudet ja metodit, joilla nämä pystytään laskemaan.
